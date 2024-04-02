@@ -18,6 +18,10 @@ Then get the Output
 
 
 `````
+DISTANCE BETWEEN TWO POINTS
+DEVELOPED BY: HARINI R
+REGISTER NUMBER: 212223100010
+
 import math
 def dis(x1,x2,y1,y2):
     d=((x2-x1)**2+(y2-y1)**2) 
@@ -33,6 +37,5 @@ print("{:.2f}".format(g))
 
 ### OUTPUT:
 ![alt text](distance.png)
-
 ### RESULT:
 Hence, the distance between two points is successfully found.
